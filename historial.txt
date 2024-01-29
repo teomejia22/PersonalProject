@@ -1,3 +1,5 @@
 Este es el primer registro: Mateo Mejía Cardona.
 
 Este es el segundo registro: 22 años de edad.
+
+Este es el tercer registro: Colombia.
